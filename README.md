@@ -1,2 +1,3 @@
-Hi 👋, I'm Bin Zhang, want to be a web developer, currently learning HTML, CSS, and JS.
-Made some toy projects, you check it out in my other repos.
+Hi 👋, I'm [Bin Zhang](https://github.com/Alicebond), want to be a web developer, currently learning HTML, CSS, and JS.
+
+Made some toy projects, feel free to check them out in my repos.
