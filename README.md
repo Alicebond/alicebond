@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Bin Zhang](https://github.com/Alicebond).
+### Hi there 👋, I'm [Bin](https://github.com/Alicebond).
 
 A self-taught code newbie want to be a web developer, currently learning HTML, CSS, and JS.
 
