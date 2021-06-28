@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm [Bin](https://github.com/Alicebond).
 
-A self-taught code newbie want to be a web developer, currently learning HTML, CSS, and JS.
+I'm a self-taught code newbie want to be a web developer, currently learning HTML, CSS, and JS.
 
 Made some toy projects, feel free to check them out in my repos.
