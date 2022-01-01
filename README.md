@@ -4,4 +4,8 @@ I'm a self-taught code newbie want to be a web developer, currently learning HTM
 
 Made some toy projects, feel free to check them out and welcome any feedback.
 
-![](https://www.codewars.com/users/reBreath2020/badges/large)
+![my codewars' badge](https://www.codewars.com/users/reBreath2020/badges/large)
+
+[![Bin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alicebond)](https://github.com/Alicebond/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alicebond&layout=compact)](https://github.com/Alicebond/github-readme-stats)
