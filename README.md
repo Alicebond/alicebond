@@ -2,7 +2,7 @@
 
 I'm a self-taught code newbie want to be a web developer
 
-Learning materials: [The Odin Project](https://www.theodinproject.com/) and [Scrimba](https://scrimba.com/).
+Learning materials: [The Odin Project](https://www.theodinproject.com/), [The Modern JavaScript Tutorial](https://javascript.info/) and [Scrimba](https://scrimba.com/).
 
 Made some toy projects, feel free to check them out and welcome any feedback.
 
