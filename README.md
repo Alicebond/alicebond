@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Bin](https://github.com/Alicebond).
+### Hi there 👋, I'm Bin.
 
 I'm a self-taught code newbie want to be a web developer
 
